@@ -8,4 +8,6 @@ More about Find_Orb at
 
 [`https://github.com/Bill-Gray/find_orb`](https://github.com/Bill-Gray/find_orb)
 
-This is a Windows x64 binary, version 2023-06-28, compiled with MinGW.
+This is a Windows x64 binary release, version 2023-06-28, compiled with MinGW.
+
+[`https://github.com/GoranGasparovic/Find_Orb/releases`](https://github.com/GoranGasparovic/Find_Orb/releases)
